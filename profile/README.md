@@ -72,7 +72,7 @@ OS installation, laptop & PC setup, and network solutions for homes and small of
 > and a syllabus → ask a question in plain language → get a direct answer with the
 > **exact page and source** it came from.
 
-> ### 🎓 Learn.io · `in development`
+> ### 🎓 Learn-with-Mentor · `in development`
 > A platform for **creating, hosting, and selling online courses** — built for people who
 > know something worth teaching.
 
@@ -80,11 +80,28 @@ OS installation, laptop & PC setup, and network solutions for homes and small of
 
 ## 🧭 How we work
 
-| | |
-|:--|:--|
-| 🎯 **Ship the core first** | We build the smallest version that proves the idea works, get it in your hands, then grow it. No months of silence. |
-| 🛡️ **Built to keep running** | Access rules on the data, clean code you can hand to anyone. Systems that hold up after we're gone. |
-| 💬 **Direct, no layers** | You talk to the person building it. Fast decisions, honest timelines, clear pricing. |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Ship the core first
+We build the smallest version that proves the idea works, get it in your hands, then grow it. No months of silence.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Built to keep running
+Access rules on the data, clean code you can hand to anyone. Systems that hold up after we're gone.
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 Direct, no layers
+You talk to the person building it. Fast decisions, honest timelines, clear pricing.
+
+</td>
+</tr>
+</table>
 
 <br />
 
