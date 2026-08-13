@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/trentoo-github-banner-1280x360.png](https://raw.githubusercontent.com/trentoo-studio/.github/main/assets/trentoo-github-banner-1280x360.png)" alt="Trentoo — We turn ideas into working systems" width="100%" />
+<img src="https://github.com/trentoo-studio/.github/blob/main/assets/trentoo-github-banner-1280x360.png" alt="Trentoo — We turn ideas into working systems" width="100%" />
 
 <br />
 
